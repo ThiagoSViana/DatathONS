@@ -1,30 +1,30 @@
 # DatathONS 2022
 
-## Análise da Relação Carga X Temperatura no Estado de São Paulo
+## Analysis of the Load X Temperature relationship in the State of São Paulo
 
-Neste repositório apresentamos os arquivos gerados no Hackathon de Ciência de Dados da ONS.
+This repository presents the files generated in the ONS Data Science Hackathon.
 
-### Pasta "data":
-* Dados fornecidos pelos organizadores;
-* Dados obtidos na internet sobre características das cidades;
-* Dados gerados durante o tratamento e pré-processamento.
-* Link para a pasta "data" completa:
-    * https://drive.google.com/drive/folders/1Ro81xihJYvEAena6rSvhjHHgrMHmfmpV?usp=sharing  
+### "date" folder:
+* Data provided by the organizers;
+* Data obtained from the internet on the characteristics of cities;
+* Data generated during treatment and pre-processing.
+* Link to full "data" folder:
+    * https://drive.google.com/drive/folders/1Ro81xihJYvEAena6rSvhjHHgrMHmfmpV?usp=sharing
 
-### Pasta "code":
-* Notebooks escritos em Python utilizados para o pré-processamento, análise exploratória e modelagem. 
-    * preprocessing: preparação dos dados e normalização;
-    * analysis: análise exploratória para entendimento dos dados.
-    * model: modelos utilizados, tais como clusterização, regressão linear e rede neural LSTM.
+### "code" folder:
+* Notebooks were written in Python for pre-processing, exploratory analysis, and modeling.
+    * preprocessing: data preparation and normalization;
+    * analysis: exploratory analysis to understand the data.
+    * model: models used, such as clustering, linear regression, and LSTM neural network.
 
-### Pasta "docs":
-* Apresentação e demais documentos relativos ao desafio.
+### "docs" folder:
+* Presentation and other documents related to the challenge.
 
-### Fontes de dados externas:
-* SEADE - Fundacao Sistema Estadual de Analise de Dados
+### External data sources:
+* SEADE - State Data Analysis System Foundation
 * IBGE
 
-### Componentes do time:
+### Team Components:
 
 https://github.com/felipebmaia
 
@@ -33,4 +33,3 @@ https://github.com/renanmassena
 https://github.com/ThiagoSViana
 
 https://github.com/ViniciusBrSc
-
